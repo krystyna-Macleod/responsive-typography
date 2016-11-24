@@ -50,6 +50,7 @@ blockquote {
 
 body {
   font-family: 'Crimson Text', serif;
+  line-height: 1.3;
 }
 
 article ol {
