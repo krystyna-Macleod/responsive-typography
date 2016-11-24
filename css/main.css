@@ -54,4 +54,13 @@ body {
   display: block;
   margin: .4em;
 }
+
+article p {
+  padding: .4em;
+}
+
+article ol {
+  padding: .5em;
+}
+
 }
