@@ -52,20 +52,11 @@ body {
   font-family: 'Crimson Text', serif;
 }
 
-article p {
-
-}
-
 article ol {
   padding: .5em;
 }
 
 @media only screen and (min-width: 20em) {
-
-body {
-  display: block;
-  margin top: 0;
-}
 
 article p {
   padding: .4em;
