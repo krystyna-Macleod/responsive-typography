@@ -48,11 +48,23 @@ blockquote {
   color: #999;
 }
 
+body {
+  font-family: 'Crimson Text', serif;
+}
+
+article p {
+
+}
+
+article ol {
+  padding: .5em;
+}
+
 @media only screen and (min-width: 20em) {
 
 body {
   display: block;
-  margin: .4em;
+  margin top: 0;
 }
 
 article p {
