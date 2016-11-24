@@ -58,12 +58,12 @@ article ol {
 
 @media only screen and (min-width: 20em) {
 
-article p {
-  padding: .4em;
-}
+  article p {
+    padding: .4em;
+  }
 
-article ol {
-  padding: .5em;
-}
+  article ol {
+    padding: .5em;
+  }
 
 }
