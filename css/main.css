@@ -73,6 +73,8 @@ article ol {
 
   html {
     font: normal 110%/1.4 "Crimson Text", serif;
+    font-size: 110%;
+    line-height: 1.4;
   }
 
   article ol {
@@ -85,6 +87,8 @@ article ol {
 
   html {
     font: normal 120%/1.5 "Crimson Text", serif;
+    font-size: 120%;
+    line-height: 1.4;
   }
 
   article ol {
@@ -97,6 +101,8 @@ article ol {
 
   html {
     font: normal 130%/1.5 "Crimson Text", serif;
+    font-size: 130%;
+    line-height: 1.5;
   }
 
   article ol {
