@@ -40,7 +40,8 @@ article header {
 
 article p {
   line-height: 1.3;
-  padding: .1em 0;
+  padding: .2em 0;
+  font-size: .859rem;
 }
 
 article header p {
